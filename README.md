@@ -36,6 +36,7 @@ df=pd.read_csv("/content/bmi.csv")
 df.head()
 ```
 image
+
 ```
 df.dropna()
 image
